@@ -44,7 +44,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
  **Enjoy :D**
 
 ### License
-  -MIT
+   - MIT
 
 ### Some basic hardhat commands 
 
